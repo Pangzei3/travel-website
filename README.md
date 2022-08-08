@@ -1,8 +1,7 @@
 # Utah travel website - One page website
 
 # Overview
-  To learn sass and modern web animation. <br>
-  Practice css grid layout <br>
+  To practice sass, grid and modern web animation. <br>
   https://pangzei3.github.io/travel-website/
   
 ![1-webpage](https://user-images.githubusercontent.com/64483501/182250633-e88cbd0f-a635-48cd-aa97-b924ce4a5e2c.png)
